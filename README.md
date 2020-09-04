@@ -1,7 +1,6 @@
 # Single View 3D Reconstruction
-This is my bachelor thesis
 
-A end-to-end Single View 3D Reconstruction network. 
+A end-to-end Single View 3D Reconstruction network for my bachelor thesis. 
 
 *by Cheng Jun-Yan*
 
